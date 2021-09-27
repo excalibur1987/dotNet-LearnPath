@@ -1,0 +1,16 @@
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath.deps.json
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath.runtimeconfig.json
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath.runtimeconfig.dev.json
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath.dll
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/ref/dotNet-LearnPath.dll
+/home/omar/projects/dotNet-LearnPath/bin/Debug/net5.0/dotNet-LearnPath.pdb
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.csprojAssemblyReference.cache
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.AssemblyInfoInputs.cache
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.AssemblyInfo.cs
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.csproj.CoreCompileInputs.cache
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.dll
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/ref/dotNet-LearnPath.dll
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.pdb
+/home/omar/projects/dotNet-LearnPath/obj/Debug/net5.0/dotNet-LearnPath.genruntimeconfig.cache
